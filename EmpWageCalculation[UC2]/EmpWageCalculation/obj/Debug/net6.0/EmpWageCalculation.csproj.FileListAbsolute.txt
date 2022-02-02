@@ -1,0 +1,15 @@
+C:\Users\Apara\Desktop\DailyProgram\EmpWageCalculation\EmpWageCalculation\bin\Debug\net6.0\EmpWageCalculation.exe
+C:\Users\Apara\Desktop\DailyProgram\EmpWageCalculation\EmpWageCalculation\bin\Debug\net6.0\EmpWageCalculation.deps.json
+C:\Users\Apara\Desktop\DailyProgram\EmpWageCalculation\EmpWageCalculation\bin\Debug\net6.0\EmpWageCalculation.runtimeconfig.json
+C:\Users\Apara\Desktop\DailyProgram\EmpWageCalculation\EmpWageCalculation\bin\Debug\net6.0\EmpWageCalculation.dll
+C:\Users\Apara\Desktop\DailyProgram\EmpWageCalculation\EmpWageCalculation\bin\Debug\net6.0\ref\EmpWageCalculation.dll
+C:\Users\Apara\Desktop\DailyProgram\EmpWageCalculation\EmpWageCalculation\bin\Debug\net6.0\EmpWageCalculation.pdb
+C:\Users\Apara\Desktop\DailyProgram\EmpWageCalculation\EmpWageCalculation\obj\Debug\net6.0\EmpWageCalculation.csproj.AssemblyReference.cache
+C:\Users\Apara\Desktop\DailyProgram\EmpWageCalculation\EmpWageCalculation\obj\Debug\net6.0\EmpWageCalculation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Apara\Desktop\DailyProgram\EmpWageCalculation\EmpWageCalculation\obj\Debug\net6.0\EmpWageCalculation.AssemblyInfoInputs.cache
+C:\Users\Apara\Desktop\DailyProgram\EmpWageCalculation\EmpWageCalculation\obj\Debug\net6.0\EmpWageCalculation.AssemblyInfo.cs
+C:\Users\Apara\Desktop\DailyProgram\EmpWageCalculation\EmpWageCalculation\obj\Debug\net6.0\EmpWageCalculation.csproj.CoreCompileInputs.cache
+C:\Users\Apara\Desktop\DailyProgram\EmpWageCalculation\EmpWageCalculation\obj\Debug\net6.0\EmpWageCalculation.dll
+C:\Users\Apara\Desktop\DailyProgram\EmpWageCalculation\EmpWageCalculation\obj\Debug\net6.0\ref\EmpWageCalculation.dll
+C:\Users\Apara\Desktop\DailyProgram\EmpWageCalculation\EmpWageCalculation\obj\Debug\net6.0\EmpWageCalculation.pdb
+C:\Users\Apara\Desktop\DailyProgram\EmpWageCalculation\EmpWageCalculation\obj\Debug\net6.0\EmpWageCalculation.genruntimeconfig.cache

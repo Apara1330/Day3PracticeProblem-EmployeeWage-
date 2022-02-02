@@ -1,0 +1,4 @@
+C:\Users\Apara\Desktop\DailyProgram\PartTimeEmpWage\PartTimeEmpWage\obj\Debug\net6.0\PartTimeEmpWage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Apara\Desktop\DailyProgram\PartTimeEmpWage\PartTimeEmpWage\obj\Debug\net6.0\PartTimeEmpWage.AssemblyInfoInputs.cache
+C:\Users\Apara\Desktop\DailyProgram\PartTimeEmpWage\PartTimeEmpWage\obj\Debug\net6.0\PartTimeEmpWage.AssemblyInfo.cs
+C:\Users\Apara\Desktop\DailyProgram\PartTimeEmpWage\PartTimeEmpWage\obj\Debug\net6.0\PartTimeEmpWage.csproj.CoreCompileInputs.cache

@@ -1,0 +1,15 @@
+C:\Users\Apara\source\repos\EmpAttendance\EmpAttendance\bin\Debug\net6.0\EmpAttendance.exe
+C:\Users\Apara\source\repos\EmpAttendance\EmpAttendance\bin\Debug\net6.0\EmpAttendance.deps.json
+C:\Users\Apara\source\repos\EmpAttendance\EmpAttendance\bin\Debug\net6.0\EmpAttendance.runtimeconfig.json
+C:\Users\Apara\source\repos\EmpAttendance\EmpAttendance\bin\Debug\net6.0\EmpAttendance.dll
+C:\Users\Apara\source\repos\EmpAttendance\EmpAttendance\bin\Debug\net6.0\ref\EmpAttendance.dll
+C:\Users\Apara\source\repos\EmpAttendance\EmpAttendance\bin\Debug\net6.0\EmpAttendance.pdb
+C:\Users\Apara\source\repos\EmpAttendance\EmpAttendance\obj\Debug\net6.0\EmpAttendance.csproj.AssemblyReference.cache
+C:\Users\Apara\source\repos\EmpAttendance\EmpAttendance\obj\Debug\net6.0\EmpAttendance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Apara\source\repos\EmpAttendance\EmpAttendance\obj\Debug\net6.0\EmpAttendance.AssemblyInfoInputs.cache
+C:\Users\Apara\source\repos\EmpAttendance\EmpAttendance\obj\Debug\net6.0\EmpAttendance.AssemblyInfo.cs
+C:\Users\Apara\source\repos\EmpAttendance\EmpAttendance\obj\Debug\net6.0\EmpAttendance.csproj.CoreCompileInputs.cache
+C:\Users\Apara\source\repos\EmpAttendance\EmpAttendance\obj\Debug\net6.0\EmpAttendance.dll
+C:\Users\Apara\source\repos\EmpAttendance\EmpAttendance\obj\Debug\net6.0\ref\EmpAttendance.dll
+C:\Users\Apara\source\repos\EmpAttendance\EmpAttendance\obj\Debug\net6.0\EmpAttendance.pdb
+C:\Users\Apara\source\repos\EmpAttendance\EmpAttendance\obj\Debug\net6.0\EmpAttendance.genruntimeconfig.cache
